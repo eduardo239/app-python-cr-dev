@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 8080
 
 # Define o comando para executar a aplicação
-CMD ["python", "app.py"]
+CMD ["python", "main.py"]
